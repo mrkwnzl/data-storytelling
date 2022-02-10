@@ -1,4 +1,3 @@
 name: datengeschichten
 channels:
   - conda-forge
-dependencies:
